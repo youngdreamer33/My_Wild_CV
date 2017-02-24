@@ -1,0 +1,32 @@
+body 
+{ color: white;
+	background-color: rgb(104,187,285);
+border: solid grey ;}
+
+#right-box, #left-box
+{background-color: #499FCB ;
+border: solid grey ;
+margin: 1%;}
+
+header, #container , footer 
+{background-color: #5EC3E4;
+border: solid grey ;
+width: 95% ;
+margin: 1%;}
+
+#experiences-box, #studies-box
+{background-color: #004157 ;
+border: solid grey ;
+margin: 1%;} 
+
+.experience, .study 
+{background-color: #007193;
+border: solid grey ; 
+margin: 1%;}
+#container
+{display: flex;
+justify-content: space-around;}
+
+header, footer
+{text-align: center;
+font-size: x-large; ;}
